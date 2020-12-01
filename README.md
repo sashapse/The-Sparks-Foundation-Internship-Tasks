@@ -4,7 +4,7 @@ This repository contains the tasks that I must completed as an intern at [The Sp
 
 # About The Sparks Foundation
 
-<img src="https://github.com/sashapse/The-Sparks-Foundation-Internship-Tasks/blob/master/TSFLogo.png">
+<img src="https://github.com/sashapse/The-Sparks-Foundation-Internship-Tasks/blob/main/TSFLogo.png">
 
 [The Sparks Foundation](https://www.thesparksfoundationsingapore.org) 
 
