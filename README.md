@@ -6,6 +6,8 @@ This repository contains the tasks that I must completed as an intern at [The Sp
 
 <img src="https://github.com/sashapse/The-Sparks-Foundation-Internship-Tasks/blob/master/TSFLogo.png">
 
+[The Sparks Foundation](https://www.thesparksfoundationsingapore.org) 
+
 **Internship Position** - Data Science and Business Analytics
 
 **Internship Duration** - One Month
